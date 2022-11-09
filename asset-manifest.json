@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/satyam-sh/sample.github.io/static/css/main.634f3b53.css",
+    "main.js": "/satyam-sh/sample.github.io/static/js/main.63587e8d.js",
+    "static/js/787.e577274b.chunk.js": "/satyam-sh/sample.github.io/static/js/787.e577274b.chunk.js",
+    "index.html": "/satyam-sh/sample.github.io/index.html",
+    "main.634f3b53.css.map": "/satyam-sh/sample.github.io/static/css/main.634f3b53.css.map",
+    "main.63587e8d.js.map": "/satyam-sh/sample.github.io/static/js/main.63587e8d.js.map",
+    "787.e577274b.chunk.js.map": "/satyam-sh/sample.github.io/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634f3b53.css",
+    "static/js/main.63587e8d.js"
+  ]
+}
